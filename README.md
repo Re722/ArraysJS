@@ -1,0 +1,1 @@
+Alguns metodos de manipulação de elementos de um array em js.
